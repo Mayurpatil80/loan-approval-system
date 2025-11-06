@@ -46,9 +46,6 @@ loan-approval-system/
 ├── pom.xml
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## ⚙️ Installation & Setup
