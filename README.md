@@ -94,7 +94,5 @@ Deploy to cloud (AWS / Render / Railway)
 
 👨‍💻 Author
 Mayur Patil
-💼 Java | Spring Boot | MySQL | Web Development
-📧 yoor-email@gmail.com
-🌐 GitHub Profile
+💼 Java | Spring Boot | MySQL | Web 
 
